@@ -34,3 +34,13 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## References
+1. [react-icons](https://react-icons.github.io/react-icons/)
+2. tailwindcss postcss autoprefixer
+3. [OpenWeather](https://openweathermap.org/api)
+4. tailwind-merge clsx
+5. axios
+6. [react-query](https://tanstack.com/query/v3/docs/framework/react/overview)
+7. [data-fns](https://date-fns.org/)
+8. [jotai](https://jotai.org/)
