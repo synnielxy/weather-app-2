@@ -93,10 +93,6 @@ export default function Home() {
 
   const firstData = data?.list[0];
 
-  // console.log("error", error);
-
-  console.log("data", data);
-
   const uniqueDates = [
     ...new Set(
       data?.list.map(

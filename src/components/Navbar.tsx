@@ -35,7 +35,6 @@ export default function Navbar({ location }: Props) {
         setSuggestions(suggestions);
         setError("");
         setShowSuggestions(true);
-        console.log(response)
       } catch (error) {
         setSuggestions([]);
         setShowSuggestions(false);
